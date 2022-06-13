@@ -15,9 +15,21 @@ For slide decks in PPT format, you can request via [this form](https://airtable.
 
 ## 🚀 List of content
 
-| Content Title                                             | Synopsis                                                                                                                                                                                                                                                                                                                                                                                                                      | Tags                        | Decks Link                                                                            | Companion Article | Demo Code Link(s)                                                                                                                                                                                                                                                       | Demo Video Link(s) |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Infrastructure as Code and CI/CD in Practice with AWS CDK | DevOps is the combination of cultural philosophies, practices, and tools to increase development velocity to deliver apps. In general, practicing DevOps enable organizations to better serve customers and compete effectively in the market. Infrastructure as Code and release pipeline with CI/CD are two of best practices in DevOps, and considered the best entry for developers who just getting started with DevOps. | DevOps, IaC, CI/CD, AWS CDK | [Speaker Deck](https://speakerdeck.com/awscommunityasean/cd-in-practice-with-aws-cdk) | N/A               | [Demo 1](https://github.com/donnieprakoso/demo-cdk/tree/main/4-serverless-api) &middot; [Demo 2](https://github.com/donnieprakoso/demo-cdk/tree/main/5-cdk-pipelines) &middot; [Demo 3](https://github.com/donnieprakoso/demo-cdk/tree/main/6-pipelines-serverless-api) | N/A                |
+### Infrastructure as Code and CI/CD in Practice with AWS CDK
+
+_DevOps is the combination of cultural philosophies, practices, and tools to increase development velocity to deliver apps. In general, practicing DevOps enable organizations to better serve customers and compete effectively in the market. Infrastructure as Code and release pipeline with CI/CD are two of best practices in DevOps, and considered the best entry for developers who just getting started with DevOps. Join us in this session to understand how we can implement IaC and CI/CD using AWS Cloud Development Kit. We will show you a step-by-step demos to help you get started. After this session, you will understand the overall concept of IaC and CI/CD, AWS services you need to use and developer tool for seamless integration with your development workflow._
+
+- Author: [Donnie Prakoso](https://github.com/donnieprakoso)
+- Tags: DevOps, IaC, CI/CD, AWS CDK
+- Decks: [Speaker Deck](https://speakerdeck.com/awscommunityasean/cd-in-practice-with-aws-cdk)
+- Article: N/A
+- Demo Code Link(s):
+  - [Demo 1](https://github.com/donnieprakoso/demo-cdk/tree/main/4-serverless-api)
+  - [Demo 2](https://github.com/donnieprakoso/demo-cdk/tree/main/5-cdk-pipelines)
+  - [Demo 3](https://github.com/donnieprakoso/demo-cdk/tree/main/6-pipelines-serverless-api)
+- Demo Video Link(s): N/A
+
+---
 
 ## ⭐️ Can I Contribute?
 
