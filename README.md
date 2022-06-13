@@ -21,7 +21,7 @@ _DevOps is the combination of cultural philosophies, practices, and tools to inc
 
 - Author: [Donnie Prakoso](https://github.com/donnieprakoso)
 - Tags: DevOps, IaC, CI/CD, AWS CDK
-- Decks: [Speaker Deck](https://speakerdeck.com/awscommunityasean/cd-in-practice-with-aws-cdk)
+- Deck: [Speaker Deck](https://speakerdeck.com/donnie/cd-in-practice-with-aws-cdk)
 - Article: N/A
 - Demo Code Link(s):
   - [Demo 1](https://github.com/donnieprakoso/demo-cdk/tree/main/4-serverless-api)
