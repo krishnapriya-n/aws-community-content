@@ -31,6 +31,24 @@ _DevOps is the combination of cultural philosophies, practices, and tools to inc
 
 ---
 
+### Let's Build Serverless Apps. Wait, Why?
+
+Serverless is an operating model, where we delegate various activities that do not provide value to our business to other parties. By delegating these things, we can focus on improving business logic and not worrying about infrastructure.
+At the end, serverless enables us to have less code, less liability, better integration, better application, more focus, more values to deliver. These are the real values for developers.
+This talk will describe few reasons why adopting AWS serverless services might be a good approach for you.
+
+- Author: [Donnie Prakoso](https://github.com/donnieprakoso)
+- Tags: Serverless, AWS Lambda, Amazon API Gateway, Event-driven, AWS Step Functions 
+- Deck: [Speaker Deck](https://speakerdeck.com/donnie/lets-build-serverless-apps-wait-why)
+- Article: N/A
+- Demo Code Link(s):
+  - [State machine - Saga Pattern](https://github.com/donnieprakoso/demo-lambda/tree/main/3-state-machine)
+  - [DynamoDB Streams](https://github.com/donnieprakoso/demo-lambda/tree/main/6-dynamodb-stream)
+  - [DynamoDB Auto Scaling](https://github.com/donnieprakoso/demo-lambda/tree/main/7-dynamodb-autoscaling)
+  - [Serverless REST API](https://github.com/donnieprakoso/workshop-restAPI)
+  - [Choreography in Event-Driven Architecture](https://github.com/donnieprakoso/workshop-eventDrivenMicroservices)
+- Demo Video Link(s): N/A
+
 ## ⭐️ Can I Contribute?
 
 Yes and thank you for asking! There are several ways in which you can make a contribution:
