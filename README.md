@@ -38,9 +38,9 @@ At the end, serverless enables us to have less code, less liability, better inte
 This talk will describe few reasons why adopting AWS serverless services might be a good approach for you.
 
 - Author: [Donnie Prakoso](https://github.com/donnieprakoso)
-- Tags: Serverless, AWS Lambda, Amazon API Gateway, Event-driven, AWS Step Functions 
+- Tags: Serverless, AWS Lambda, Amazon API Gateway, Event-driven, AWS Step Functions
 - Deck: [Speaker Deck](https://speakerdeck.com/donnie/lets-build-serverless-apps-wait-why)
-- Article: N/A
+- Article: [LinkedIn](https://www.linkedin.com/pulse/lets-build-serverless-apps-wait-why-donnie-prakoso/?trackingId=fOtC6u44QgG6Nfwc4MBbfw%3D%3D) | [Dev.to](https://dev.to/awscommunity-asean/lets-build-serverless-apps-wait-why-2f2i)
 - Demo Code Link(s):
   - [State machine - Saga Pattern](https://github.com/donnieprakoso/demo-lambda/tree/main/3-state-machine)
   - [DynamoDB Streams](https://github.com/donnieprakoso/demo-lambda/tree/main/6-dynamodb-stream)
@@ -54,7 +54,7 @@ This talk will describe few reasons why adopting AWS serverless services might b
 Yes and thank you for asking! There are several ways in which you can make a contribution:
 
 1. Present at local meetups and/or conferences. All the content in this repo is available for you to present in any meetups. If you need to make any modifications, please request the PPT source using this [Airtable form](https://airtable.com/shrzE2BqNvHDIYbVy).
-2. Provide your feedback and idea. You can make a contribution by providing ideas of what content you need by filing an [issue](https://github.com/aws-community-asean/community-content/issues/new).
+2. Provide your feedback and idea. You can make a contribution by providing ideas of what content you need by filing an [issue](https://github.com/aws-community-asean/community-content/issues/new?assignees=donnieprakoso&labels=content+request&template=content-request.md&title=%5BCONTENT+REQUEST%5D+Your+request+title+placeholder).
 3. Contributing to translation. Content translation will help more developers to understand the context of the content presented in this repository. If you translated any presentations, articles or code repository, please submit a PR to be displayed in this repository.
 
 Happy building!
