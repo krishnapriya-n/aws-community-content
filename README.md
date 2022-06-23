@@ -11,8 +11,6 @@ There are 5 content types in this repository, which can be a resource for develo
 4. Demo Codes (Ready to deploy)
 5. Video Demo
 
-For slide decks in PPT format, you can request via [this form](https://airtable.com/shrzE2BqNvHDIYbVy). For now, PPT will **only be given** if you need a slide deck for **your upcoming presentation** at local meetups or conferences.
-
 ## 🚀 List of content
 
 ### Infrastructure as Code and CI/CD in Practice with AWS CDK
@@ -53,7 +51,7 @@ This talk will describe few reasons why adopting AWS serverless services might b
 
 Yes and thank you for asking! There are several ways in which you can make a contribution:
 
-1. Present at local meetups and/or conferences. All the content in this repo is available for you to present in any meetups. If you need to make any modifications, please request the PPT source using this [Airtable form](https://airtable.com/shrzE2BqNvHDIYbVy).
+1. Present at local meetups and/or conferences. All the content in this repo is available for you to present in any meetups.
 2. Provide your feedback and idea. You can make a contribution by providing ideas of what content you need by filing an [issue](https://github.com/aws-community-asean/community-content/issues/new?assignees=donnieprakoso&labels=content+request&template=content-request.md&title=%5BCONTENT+REQUEST%5D+Your+request+title+placeholder).
 3. Contributing to translation. Content translation will help more developers to understand the context of the content presented in this repository. If you translated any presentations, articles or code repository, please submit a PR to be displayed in this repository.
 
