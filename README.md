@@ -47,6 +47,21 @@ This talk will describe few reasons why adopting AWS serverless services might b
   - [Choreography in Event-Driven Architecture](https://github.com/donnieprakoso/workshop-eventDrivenMicroservices)
 - Demo Video Link(s): N/A
 
+### Accelerate Modern Application Development with Containers
+
+Containers are a powerful way for developers to package and deploy their applications. They are lightweight and provide a consistent, portable software environment for applications to easily run and scale anywhere. However, deploying our containers still creates another layer of complexity. This talk focused on how you can easily deploy, release and run containerized applications using Amazon ECS, integration with Amazon ECR, and using AWS Copilot to streamline the process.
+
+- Author: [Donnie Prakoso](https://github.com/donnieprakoso)
+- Tags: Containers, Architecture, AWS Fargate, Amazon Elastic Load Balancing, Amazon DynamoDB, AWS Copilot
+- Deck: [Speaker Deck](https://speakerdeck.com/donnie/accelerate-modern-application-development-with-containers)
+- Article: _Will be published on June 30, 2022_
+- Demo Code Link(s):
+  - [Copilot.Rocks](https://copilot.rocks/)
+  - [AWS Copilot: Installing - Uninstalling](https://copilot.rocks/getting-started/00_install-uninstall/)
+  - [How to deploy a HTTP API app?](https://copilot.rocks/getting-started/20-deploy-http-api/)
+  - [How-To: Implement Service Discovery](https://copilot.rocks/implementing-architectural-patterns/10-service-discovery/)
+- Demo Video Link(s): N/A
+
 ## ⭐️ Can I Contribute?
 
 Yes and thank you for asking! There are several ways in which you can make a contribution:
