@@ -47,6 +47,8 @@ This talk will describe few reasons why adopting AWS serverless services might b
   - [Choreography in Event-Driven Architecture](https://github.com/donnieprakoso/workshop-eventDrivenMicroservices)
 - Demo Video Link(s): N/A
 
+---
+
 ### Accelerate Modern Application Development with Containers
 
 Containers are a powerful way for developers to package and deploy their applications. They are lightweight and provide a consistent, portable software environment for applications to easily run and scale anywhere. However, deploying our containers still creates another layer of complexity. This talk focused on how you can easily deploy, release and run containerized applications using Amazon ECS, integration with Amazon ECR, and using AWS Copilot to streamline the process.
@@ -54,13 +56,31 @@ Containers are a powerful way for developers to package and deploy their applica
 - Author: [Donnie Prakoso](https://github.com/donnieprakoso)
 - Tags: Containers, Architecture, AWS Fargate, Amazon Elastic Load Balancing, Amazon DynamoDB, AWS Copilot
 - Deck: [Speaker Deck](https://speakerdeck.com/donnie/accelerate-modern-application-development-with-containers)
-- Article: _Will be published on June 30, 2022_
+- Article: _Will be published in July_
 - Demo Code Link(s):
   - [Copilot.Rocks](https://copilot.rocks/)
   - [AWS Copilot: Installing - Uninstalling](https://copilot.rocks/getting-started/00_install-uninstall/)
   - [How to deploy a HTTP API app?](https://copilot.rocks/getting-started/20-deploy-http-api/)
   - [How-To: Implement Service Discovery](https://copilot.rocks/implementing-architectural-patterns/10-service-discovery/)
 - Demo Video Link(s): N/A
+
+---
+
+### A Pragmatic Introduction to Microservices
+
+Microservices are not new and are increasingly becoming the preference of developers to develop their systems. However, despite the various tutorials available, there are still few that explain microservices from a practice perspective for beginners. This talk begins by explaining why microservices use the team journey on Amazon.com, and will also explain the important differences between monoliths and microservices. After that, we will also discuss how to implement asynchronous communication using an event-driven architecture. The key takeaway is for beginners to understand the basic characteristics of microservices via demos.
+
+- Author: [Donnie Prakoso](https://github.com/donnieprakoso)
+- Tags: Microservices, Monolith, Architecture, Serverless, Event-driven architecture
+- Deck: [Speaker Deck](https://speakerdeck.com/donnie/awscommunityasean-apragmaticintroductiontomicroservices)
+- Article: _Will be published in July_
+- Demo Code Link(s):
+  - [Monolith Lambda](https://github.com/donnieprakoso/demo-lambda/tree/main/9-monolith-lambda)
+  - [Serverless API with AWS Lambda](https://github.com/donnieprakoso/demo-cdk/tree/main/4-serverless-api)
+  - [Event-driven Architecture with Amazon EventBridge](https://github.com/donnieprakoso/workshop-eventDrivenMicroservices/tree/master/2-lab-choreographMicroservices)
+- Demo Video Link(s): N/A
+
+---
 
 ## ⭐️ Can I Contribute?
 
