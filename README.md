@@ -1,4 +1,4 @@
-## 👋🏻 Hello. สวัสดี. Xin chào. ဟယ်လို.
+## 👋🏻 Hello. สวัสดี. Xin chào. မင်္ဂလာပါ.
 
 The content of this repository is for all developers who want to learn to build solutions using technology from AWS through presentations, companion articles, videos or learning directly from the available code.
 In addition, this repository will be updated regularly, so always check this repository from time to time for updates on the material in this repository.
